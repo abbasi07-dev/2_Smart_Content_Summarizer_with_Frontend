@@ -27,9 +27,15 @@ A professional-grade content summarization application featuring a modern web in
 ## 📸 Screenshots
 
 ### Web Interface
-- Clean, intuitive design with real-time feedback
-- Responsive layout adapting to all screen sizes
-- Professional UI components with smooth interactions
+![Smart Summarizer Homepage](./screenshots/pic1.png)
+*Clean, modern interface with real-time summarization*
+
+![Summary Generation](./screenshots/pic2.png)
+*AI-powered summary generation with customizable parameters*
+
+![Mobile Responsive View](./screenshots/pic3.png)
+*Fully responsive design for all devices*
+
 
 ### API Documentation
 - Interactive Swagger UI at `/docs`
