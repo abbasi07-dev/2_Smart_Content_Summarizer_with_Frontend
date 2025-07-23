@@ -38,9 +38,11 @@ A professional-grade content summarization application featuring a modern web in
 
 
 ### API Documentation
-- Interactive Swagger UI at `/docs`
-- Complete endpoint documentation
-- Try-it-out functionality for testing
+![Swagger API Docs](./screenshots/pic4.png)
+*Interactive API documentation with try-it-out functionality*
+
+![API Testing](./screenshots/pic5.png)
+*Test endpoints directly from the documentation*
 
 ## 🛠️ Tech Stack
 
